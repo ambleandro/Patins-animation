@@ -139,8 +139,8 @@ section.hero {
     transform: translateX(-20px);
   }
 
-  90% {
-    transform: translateX(+5px);
+  80% {
+    transform: translateX(+2px);
   }
 
   100% {
